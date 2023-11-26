@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrice-ojie
 - 👀 I’m interested in career changing in to Data Science
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently enrolled on a HyperionDev Data Science Bootcamp
 
 <!---
 patrice-ojie/patrice-ojie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
